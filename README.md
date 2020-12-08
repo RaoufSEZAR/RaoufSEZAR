@@ -5,7 +5,8 @@
     <a href="https://instagram.com/rauf95sat?igshid=1ccema71o2gmf"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="![profile-img](https://user-images.githubusercontent.com/64332249/101525255-1c745700-399c-11eb-8839-f570a2ea69e8.png)
+" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, node.js,Express, and mongoDb.
 
