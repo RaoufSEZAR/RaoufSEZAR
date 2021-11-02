@@ -14,6 +14,16 @@ I'm a software developer who is passionate about creating technology to elevate 
 - 🔭 I'm a software developer in Istanbul, Turkey.
 - 💬 Ask me about **node.js and frontEnd**
 
+</br>
+</br>
+
+
+
+
+
+
+
+
 
 ## :trophy: My Github Stats:
 <div>
