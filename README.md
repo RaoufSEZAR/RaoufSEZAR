@@ -9,7 +9,7 @@
   
   <img src="https://user-images.githubusercontent.com/64332249/101525255-1c745700-399c-11eb-8839-f570a2ea69e8.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include javascript,react native, node.js,Express, and mongoDb.
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include javascript,React,React native, node.js,Express and mongoDb.
 
 - 🔭 I'm a software developer in Istanbul, Turkey.
 - 💬 Ask me about **node.js and frontEnd**
