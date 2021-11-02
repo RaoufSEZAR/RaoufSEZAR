@@ -13,3 +13,19 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 - 🔭 I'm a software developer in Istanbul, Turkey.
 - 💬 Ask me about **node.js and frontEnd**
+
+
+## :trophy: My Github Stats:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=RaoufSEZAR&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=RaoufSEZAR&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufSEZAR&theme=radical">
+  <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufSEZAR&theme=radical" />
+</a>
+</div>
+
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=RaoufSEZAR&color=green&style=plastic" alt="RaoufSEZAR" /> 
+</p>
