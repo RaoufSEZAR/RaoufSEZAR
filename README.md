@@ -3,7 +3,7 @@
 <p align="center">
    <p align="center">
     <a href="mailto:raoufsatto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-B23121?style=flat&logo=gmail&logoColor=white" alt="mailto:raoufsatto@gmail.com"/></a>
-    <a href="https://www.linkedin.com/in/raouf-satto-8a38a11aa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/raouf-satto/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/raoufsatto/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
