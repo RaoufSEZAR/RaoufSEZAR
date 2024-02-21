@@ -27,9 +27,9 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 ## :trophy: My Github Stats:
 <div>
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=RaoufSEZAR&theme=radical">
+<a href="https://github-readme-stats.vercel.app/api?username=RaoufSEZAR&theme=radical">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=RaoufSEZAR&theme=radical" />
-</a> -->
+</a> 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufSEZAR&theme=radical">
   <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufSEZAR&theme=radical" />
 </a>
